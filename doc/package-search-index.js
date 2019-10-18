@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"Algo"},{"l":"All Packages","url":"allpackages-index.html"},{"l":"Coords"},{"l":"ex4_example"},{"l":"Geom"},{"l":"GIS"},{"l":"graph_example"},{"l":"GUI"},{"l":"Map"}]
